@@ -1,7 +1,7 @@
 # ✨ Code with Creativity & Curiosity 💡
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=00C4FF&width=500&lines=Hi+there%2C+I'm+Sowmiya+J+👩‍💻;Software+Developer+%7C+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.comfont=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=00C4FF&width=500&lines=Hi+there%2C+I'm+Sowmiya+J+👩‍💻;Software+Developer+%7C+Innovator" alt="Typing SVG" />
 </h1>
 <img align="right" width="300" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
