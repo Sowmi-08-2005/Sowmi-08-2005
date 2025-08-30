@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=00BFFF&width=435&lines=Hi+there%2C+I'm+Sowmiya+👩‍💻;Software+Developer+%7C+Innovator" alt="Typing SVG" /> </h1> <img align="right" width="300" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=00BFFF&width=435&lines=Hi+there%2C+I'm+Sowmiya+👩‍💻;Software+Developer+%7C+Innovator" alt="Hi there, I'm Sowmiya" /> </h1> <img align="right" width="300" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 🎓 B.Tech – Electronics & Communication Engineering (2023–2027)
 👩‍💻 Software Developer | Core Java | Python | Web Development | IoT | Embedded Systems
