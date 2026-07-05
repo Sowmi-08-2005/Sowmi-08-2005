@@ -5,15 +5,15 @@
 </h1>
 
 🎓 B.Tech in Electronics & Communication Engineering (2023–2027)  
-👩‍💻 Enthusiastic Software Developer | Core Java, Python, Web Development  
+👩‍💻 Enthusiastic Software Developer | Java & Web Development  
 📈 Passionate about Problem Solving, IoT, Cloud & Embedded Systems  
 🔍 Currently exploring: *Full-Stack Development, IoT & Embedded Systems*
 
 ---
 
-- 🌟 Strong foundation in **Java, Python, Web Development (HTML, CSS, JS)**  
+- 🌟 Strong foundation in **Java & Web Development (HTML, CSS, JS)**  
 - 🤝 Experienced in **team projects, hackathons & internships**  
-- 💼 Internships in **Core Java, Python Development, Cloud & Web Tech**  
+- 💼 Internships in **Java, Python Development, Cloud & Web Tech**  
 - 🧠 Hands-on with **IoT, Embedded Systems (STM32, Arduino), CAD (Fusion 360)**  
 - ✨ Always learning, curious, and ready to take on challenges  
 
